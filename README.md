@@ -6,6 +6,7 @@
 🎓 **CS Graduate – GPA: 4.30**  
 🧠 Focused on React, TypeScript, and modern UI/UX practices  
 🎨 Obsessed with seamless user experiences  
+
 🚀 Passionate about building beautiful, usable, real-world interfaces
 
 ---
